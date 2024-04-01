@@ -2,8 +2,8 @@
 Developed with Pygame, it features a user interface for playing Tic-Tac-Toe against an AI trained using Q-Learning algorithms.
 
 ### Features
-- **Play with AI**: Play a game against the trained agent.
-- **Replay**: Watch the agent's training progress through episodes.
+- **Play with AI**: Play a game against the trained agent
+- **Replay**: Watch the agent's training progress through episodes
 
 ### To play game
 1. Run learn.py to generate play.npy and replay.npy files
